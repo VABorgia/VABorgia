@@ -1,6 +1,4 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VABorgia)](https://github.com/anuraghazra/github-readme-stats)
-![Metrics](https://metrics.lecoq.io/VABorgia?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai)
 ### Hi there 👋
 
 <h1 align="center">I'm VABorgia</h1>
