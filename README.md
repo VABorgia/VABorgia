@@ -1,4 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+yarn install
+yarn serve
+yarn build
 ### Hi there 👋
 
 <h1 align="center">I'm VABorgia</h1>
